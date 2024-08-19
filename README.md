@@ -8,7 +8,7 @@ This repository (hopefully) contains a collection of custom Blender addons and s
 
 Set up and modify camera with orbit paths around selected object. Useful for taking images for Gaussian Splats.
 
-![Orbit Camera Demo](./github/images/orbit_cam.gif)
+![Orbit Camera Demo](.github/images/orbit_cam.gif)
 
 **Key Features:**
 - Adjust top and bottom angles of the camera's orbit
